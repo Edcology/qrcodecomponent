@@ -17,8 +17,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/Edcology/qrcodecomponent)
+- Live Site URL: (https://edcology.github.io/qrcodecomponent/)
 
 ## My process
 
@@ -35,6 +35,6 @@ I learnt how to position items horizontally and vertically, i also learnt how to
 
 
 
-- Frontend Mentor - [@Edcology](ttps://www.frontendmentor.io/profile/Edcology)
+- Frontend Mentor - [@Edcology](https://www.frontendmentor.io/profile/Edcology)
 
 
